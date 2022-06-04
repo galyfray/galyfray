@@ -18,8 +18,14 @@ Here are some ideas to get you started:
 
 <p align="center">French student in <a href="https://www.utbm.fr/">UTBM</a>, I love to develop and I am always seeking for new challenges and more knowledge 📖. </p>
 
+<img src="bar.svg" width="100%">
+
 <h4 align="left">Languages and Tools</h4>
 
+<!-- C -->
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
 
 <!-- Java -->
 <a href="https://www.java.com/en/" target="_blank"> 
@@ -76,6 +82,13 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> 
 </a> 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<h4 align="left">Languages I am planning to learn</h4>
+
+<!-- CPP -->
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+</a> 
+
+<img src="bar.svg" width="100%">
 
 ![Galyfray's stats](https://github-readme-stats.vercel.app/api?username=galyfray&count_private=true&show_icons=true&theme=blue-green)
