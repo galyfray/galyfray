@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--img align ="right" src="https://komarev.com/ghpvc/?username=galyfray&color=brightgreen"/-->
+<img align ="right" src="https://komarev.com/ghpvc/?username=galyfray&color=brightgreen"/>
 
 <h2 align="center">Hi there 👋, I am Galyfray</h2>
 
