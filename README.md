@@ -90,6 +90,7 @@ Here are some ideas to get you started:
 </a> 
 
 <img src="https://raw.githubusercontent.com/galyfray/galyfray/master/bar_green.svg" width="100%">
+<br>
 
-![Galyfray's stats](https://github-readme-stats.vercel.app/api?username=galyfray&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs)
-![Galyfray's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=galyfray&layout=compact&theme=chartreuse-dark)
+| <img src="https://github-readme-stats.vercel.app/api?username=galyfray&count_private=true&show_icons=true&theme=chartreuse-dark" alt="Galyfray's stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galyfray&theme=chartreuse-dark&layout=compact" alt="Galyfray's stats"/> |
+| ------------- | ------------- |
