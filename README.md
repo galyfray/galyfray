@@ -88,9 +88,13 @@ Here are some ideas to get you started:
 <a href="https://isocpp.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
 </a> 
-
+<a href="https://github.com/galyfray?tab=repositories" target="_blank">
 <img src="https://raw.githubusercontent.com/galyfray/galyfray/master/bar_green.svg" width="100%">
+</a>
 <br>
-
-| <img src="https://github-readme-stats.vercel.app/api?username=galyfray&count_private=true&show_icons=true&theme=chartreuse-dark" alt="Galyfray's stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galyfray&theme=chartreuse-dark&layout=compact" alt="Galyfray's stats"/> |
-| ------------- | ------------- |
+<div width="100%">
+<a href="https://github.com/galyfray?tab=repositories" target="_blank">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=galyfray&count_private=true&show_icons=true&theme=chartreuse-dark" alt="Galyfray's stats" /> 
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galyfray&theme=chartreuse-dark&layout=compact" alt="Galyfray's stats"/>
+</a>
+</div>
