@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">French student in <a href="https://www.utbm.fr/">UTBM</a>, I love to develop and I am always seeking for new challenges and more knowledge 📖. </p>
 
-<img src="bar.svg" width="100%">
+<img src="https://raw.githubusercontent.com/galyfray/galyfray/master/bar_green.svg" width="100%">
 
 <h4 align="left">Languages and Tools</h4>
 
@@ -89,6 +89,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
 </a> 
 
-<img src="bar.svg" width="100%">
+<img src="https://raw.githubusercontent.com/galyfray/galyfray/master/bar_green.svg" width="100%">
 
-![Galyfray's stats](https://github-readme-stats.vercel.app/api?username=galyfray&count_private=true&show_icons=true&theme=blue-green)
+![Galyfray's stats](https://github-readme-stats.vercel.app/api?username=galyfray&count_private=true&show_icons=true&theme=chartreuse-dark&hide=contribs)
+![Galyfray's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=galyfray&layout=compact&theme=chartreuse-dark)
