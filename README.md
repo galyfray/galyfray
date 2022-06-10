@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/galyfray?tab=repositories" target="_blank"><img align ="right" src="https://komarev.com/ghpvc/?username=galyfray&color=brightgreen"/></a>
+<a href="https://github.com/galyfray?tab=repositories" target="_blank"><!--img align ="right" src="https://komarev.com/ghpvc/?username=galyfray&color=brightgreen"/--></a>
 
 <h2 align="center">Hi there 👋, I am Galyfray</h2>
 
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 <div width="100%">
 <a href="https://github.com/galyfray?tab=repositories" target="_blank">
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=galyfray&count_private=true&show_icons=true&theme=chartreuse-dark&bg_color=0d1117" alt="Galyfray's stats" /> 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galyfray&theme=chartreuse-dark&layout=compact&bg_color=0d1117" alt="Galyfray's stats"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galyfray&theme=chartreuse-dark&layout=compact&bg_color=0d1117&hide=Jupyter%20Notebook" alt="Galyfray's stats"/>
 </a>
 </div>
 
