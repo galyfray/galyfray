@@ -42,11 +42,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40"/> 
 </a> 
 
-<!-- npm -->
-<a href="https://www.npmjs.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
-</a> 
-
 <!-- Python -->
 <a href="https://www.python.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
@@ -75,6 +70,11 @@ Here are some ideas to get you started:
 <!-- eslint -->
 <a href="https://eslint.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="EsLint" width="40" height="40"/> 
+</a> 
+
+<!-- npm -->
+<a href="https://www.npmjs.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
 </a> 
 
 <!-- Ubuntu -->
