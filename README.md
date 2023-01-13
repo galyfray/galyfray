@@ -94,8 +94,8 @@ Here are some ideas to get you started:
 <br>
 <div width="100%">
 <a href="https://github.com/galyfray?tab=repositories" target="_blank">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=galyfray&count_private=true&show_icons=true&theme=chartreuse-dark&bg_color=0d1117" alt="Galyfray's stats" /> 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galyfray&theme=chartreuse-dark&layout=compact&bg_color=0d1117&hide=Jupyter%20Notebook" alt="Galyfray's stats"/>
+<img height="200" src="https://github-readme-stats-galyfray.vercel.app/api?username=galyfray&count_private=true&show_icons=true&theme=chartreuse-dark&bg_color=0d1117" alt="Galyfray's stats" /> 
+<img height="200" src="https://github-readme-stats-galyfray.vercel.app/api/top-langs/?username=galyfray&theme=chartreuse-dark&layout=compact&bg_color=0d1117&hide=Jupyter%20Notebook" alt="Galyfray's stats"/>
 </a>
 </div>
 
