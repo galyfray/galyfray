@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi there 👋, I am Galyfray</h2>
 
-<p align="center">French student in <a href="https://www.utbm.fr/">UTBM</a>, I love to develop and I am always seeking for new challenges and more knowledge 📖. </p>
+<p align="center">French stoftware engineer, I love to develop and I am always seeking for new challenges and more knowledge 📖. </p>
 
 <img src="https://raw.githubusercontent.com/galyfray/galyfray/master/bar_green.svg" width="100%">
 
